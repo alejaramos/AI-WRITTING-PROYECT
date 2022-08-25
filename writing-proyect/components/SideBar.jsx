@@ -124,7 +124,7 @@ export default function Sidebar() {
             </div>
             <div className="mt-1 text-3xl font-semibold text-gray-900">150</div>
           </div>
-          <div className="w-full col-span-2  px-4 py-5 bg-white rounded-lg shadow">
+          <div className="w-full col-span-2 cd  px-4 py-5 bg-white rounded-lg shadow">
             <InitialTopic></InitialTopic>
           </div>
         </div>
