@@ -8,7 +8,7 @@ export default function Sidebar() {
         <div className="space-y-3">
           <div className="flex items-center ">
             <h2 className="mt-1 text-3xl font-semibold text-gray-900 text-purple-strong">
-              El hacedor
+            Golem XIV
             </h2>
           </div>
           <div className="flex-1">
