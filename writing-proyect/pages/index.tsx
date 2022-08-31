@@ -6,8 +6,11 @@ import Sidebar from "../components/SideBar"
 const Home: NextPage = () => {
 
   return (
-    <div class="bg-indigo-100 mx-auto h-screen">
+    <div className="bg-indigo-100 mx-auto h-screen">
     <Sidebar></Sidebar>
+    <div>
+  
+    </div>
     </div>
   );
 };
