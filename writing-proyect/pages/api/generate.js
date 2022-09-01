@@ -24,7 +24,8 @@ Title: Plato and politics, Plato and literature, What is the contribution of Pla
 Topic: Nietzsche
 Title: Nihilism and Nietzsche, Nietzsche and Platonism, Nietzsche 's Philosophy On Morality
 Topic: Hegel and religion
-Title: hegel and religion the rational understanding of reality , religion and the substance of eticity in hegel, christianity as the axis of hegelian philosophy.
+Title: Hegel and religion the rational understanding of reality , religion and the substance of eticity in hegel, christianity as the axis of hegelian philosophy.
 Topic: ${capitalizedInitialTopic}
-Title:`;
+Title:
+`;
 }
