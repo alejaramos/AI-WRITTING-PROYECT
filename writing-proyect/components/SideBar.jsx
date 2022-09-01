@@ -128,6 +128,7 @@ export default function Sidebar() {
             <InitialTopic></InitialTopic>
           </div>
         </div>
+        <div> <h1> HOLA  Aqui van los resultados</h1></div>
       </div>
     </div>
   );
